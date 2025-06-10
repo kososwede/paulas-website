@@ -7,6 +7,10 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  color: #393b72;
 }
 .logo {
   width: 25%;
@@ -14,14 +18,8 @@
   align-items: center;
 }
 
-.business-name,
-.business-details {
-  font-family: "Dancing Script", cursive;
-  font-optical-sizing: auto;
-  font-weight: 200;
-  font-style: normal;
+.business-name {
   font-size: 3rem;
-  color: #393b72;
 }
 
 .business-details {
